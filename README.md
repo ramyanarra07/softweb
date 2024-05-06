@@ -873,7 +873,7 @@ product.html
       </div>
     </div>
     <footer>
-      <center>Designed and DEVELOPED BY NARRA RAMYA (212223040128)</center>
+      <center>DESIGNED AND DEVELOPED BY NARRA RAMYA (212223040128)</center>
     </footer>
   </body>
 </html>
