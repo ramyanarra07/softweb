@@ -884,7 +884,8 @@ product.html
 ![alt text](<Screenshot (47).png>)
 ![alt text](<Screenshot (48).png>)
 ![alt text](<Screenshot (49).png>)
-![alt text](<Screenshot (51).png>)
+![alt text](<Screenshot (52).png>)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
