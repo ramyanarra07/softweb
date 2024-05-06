@@ -882,7 +882,7 @@ product.html
 
 ## OUTPUT:
 ![alt text](<Screenshot (47).png>)
-![alt text](<Screenshot (48).png>)
+![alt text](<Screenshot (56).png>)
 ![alt text](<Screenshot (49).png>)
 ![alt text](<Screenshot (54).png>)
 
