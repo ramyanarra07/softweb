@@ -398,11 +398,11 @@ people.html
       <div class="image">
         <table cellspacing="80" >
           <tr align="center">
-            <td><img src="C:\Users\admin\softweb\ramya\softwebapp\static\WhatsApp Image 2024-04-28 at 12.22.53_71240821.jpg" /></td>
-            <td><img src="C:\Users\admin\softweb\ramya\softwebapp\static\WhatsApp Image 2024-04-28 at 12.28.21_fd00471e.jpg" /></td>
-            <td><img src="C:\Users\admin\softweb\ramya\softwebapp\static\WhatsApp Image 2024-04-28 at 12.23.29_598cc347.jpg" /></td>
-            <td><img src="C:\Users\admin\softweb\ramya\softwebapp\static\WhatsApp Image 2024-04-28 at 12.25.09_e5795e65.jpg" /></td>
-            <td><img src="C:\Users\admin\softweb\ramya\softwebapp\static\WhatsApp Image 2024-04-28 at 13.04.08_60348e97.jpg" /></td>
+            <td><img src="WhatsApp Image 2024-04-28 at 12.22.53_71240821.jpg" /></td>
+            <td><img src="WhatsApp Image 2024-04-28 at 12.28.21_fd00471e.jpg" /></td>
+            <td><img src="WhatsApp Image 2024-04-28 at 12.23.29_598cc347.jpg" /></td>
+            <td><img src="WhatsApp Image 2024-04-28 at 12.25.09_e5795e65.jpg" /></td>
+            <td><img src="WhatsApp Image 2024-04-28 at 13.04.08_60348e97.jpg" /></td>
         
           </tr>
           <tr align="center" class="space">
